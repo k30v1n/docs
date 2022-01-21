@@ -1,6 +1,6 @@
 # How to manage git configuration (username/email)
 
-To list the current repository configuration
+To list the current repository configuration.
 ```
 git config -l
 ```
