@@ -31,3 +31,11 @@ cat ~/.ssh/id_ed25519.pub
 ```
 
 Copy and paste this value on Github profile on SSH.
+
+To test if its working run the following commands
+```
+ssh -vT git@github.com
+```
+
+Expected result
+`Hi k30v1n! You've successfully authenticated, but GitHub does not provide shell access.`
