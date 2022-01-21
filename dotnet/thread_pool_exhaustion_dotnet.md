@@ -13,6 +13,7 @@ Then after that he analised the results where he noticed that the Thread Pool wa
 *Ideally the Thread pool should be steady, which shows that the application is being able to re use the same thread pools and serving all requests/process properly"
 
 
+Other links
+- [CLI - dotnet-counters](/dotnet/cli_dotnet_counters.md)
 
-Todo: more details on the tool `dotnet-counters`
 Todo: more details about `thread pools`

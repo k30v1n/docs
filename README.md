@@ -10,6 +10,7 @@ Repo to hold important notes, links and guides to help throughout the carrer
 
 ## Dotnet
 1. [Thread pool exhaustion](/dotnet/thread_pool_exhaustion_dotnet.md)
+1. [CLI - dotnet-counters](/dotnet/cli_dotnet_counters.md)
 
 ## Entity Framework
 1. [How to run Entity Framework migrations](/entity_framework/how_to_run_migrations.md)
