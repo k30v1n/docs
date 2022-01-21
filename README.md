@@ -9,10 +9,11 @@ Repo to hold important notes, links and guides to help throughout the carrer
 1. [How to run specific docker step](/docker/how_to_run_docker_step.md)
 
 ## Dotnet
-1. [Thread pool exhaustion](/dotnet/thread_pool_exhaustion_dotnet.md)
+1. [How to run dotnet with profile using CLI](/dotnet/how_to_run_dotnet_with_profile.md)
 1. [CLI - dotnet-counters](/dotnet/cli_dotnet_counters.md)
+1. [Thread pool exhaustion](/dotnet/thread_pool_exhaustion_dotnet.md)
 
-## Entity Framework
+## Entity Framegit work
 1. [How to run Entity Framework migrations](/entity_framework/how_to_run_migrations.md)
 
 ## Cookies
