@@ -1,6 +1,6 @@
 # How to add SSH to github
 
-## Linux
+## Linux / macOS
 First run the following query
 
 ```
@@ -27,7 +27,7 @@ ssh-add ~/.ssh/id_ed25519
 
 Then print the SSH public key on console
 ```
-~/.ssh/id_ed25519.pub
+cat ~/.ssh/id_ed25519.pub
 ```
 
 Copy and paste this value on Github profile on SSH.

@@ -23,6 +23,9 @@ Repo to hold important notes, links and guides to help throughout the carrer
 1. [How to perform empty commit](/git/how_to_empty_commit.md)
 1. [How to manage git configuration (username/email)](/git/how_to_manage_config.md)
 
+## GitHub
+1. [How to add SSH to github](/github/how_to_add_ssh_to_github.md)
+
 ## MySQL
 1. [How to insert blob](/mysql/how_to_insert_blob.md)
 
