@@ -1,6 +1,9 @@
 # docs
 Repo to hold important notes, links and guides to help throughout the carrer
 
+## Bash
+1. [How to find process running on port](/bash/how_to_find_process_running_on_port.md)
+
 ## Certificates
 1. [How to generate certificates](/certificates/how_to_generate_certificates.md)
 
