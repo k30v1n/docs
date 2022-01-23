@@ -27,6 +27,9 @@ Repo to hold important notes, links and guides to help throughout the carrer
 ## GitHub
 1. [How to add SSH to github](/github/how_to_add_ssh_to_github.md)
 
+## Locust
+1. [How to run performance test with locust](/locust/how_to_run_performance_test_with_locust.md)
+
 ## MySQL
 1. [How to insert blob](/mysql/how_to_insert_blob.md)
 
