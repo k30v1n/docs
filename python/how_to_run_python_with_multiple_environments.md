@@ -33,4 +33,4 @@ conda install -r requirements.txt
 ```
 
 
-(reference)[https://boscacci.medium.com/why-and-how-to-make-a-requirements-txt-f329c685181e]
+[reference](https://boscacci.medium.com/why-and-how-to-make-a-requirements-txt-f329c685181e)
