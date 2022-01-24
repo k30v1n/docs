@@ -40,5 +40,8 @@ Repo to hold important notes, links and guides to help throughout the carrer
 ## Powershell
 1. [Powershell commands](/powershell/powershell_commands.md)
 
+## Python
+1. [How to run python with multiple environments](python/how_to_run_python_with_multiple_environments.md)
+
 ## Redis
 1. [How to run redis through docker](/redis/how_to_run_redis_through_docker.md)
