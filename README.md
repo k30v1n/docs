@@ -35,6 +35,7 @@ Repo to hold important notes, links and guides to help throughout the carrer
 1. [How to run performance test with locust](/locust/how_to_run_performance_test_with_locust.md)
 
 ## MySQL
+1. [How to create table with case insensitive columns](/mysql/how_to_create_table_with_case_insensitive_columns.md)
 1. [How to insert blob](/mysql/how_to_insert_blob.md)
 
 ## Powershell
