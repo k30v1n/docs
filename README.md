@@ -21,12 +21,13 @@ Repo to hold important notes, links and guides to help throughout the carrer
 1. [How to run Entity Framework migrations](/entity_framework/how_to_run_migrations.md)
 
 ## Cookies
-1. [.NET FORMS AUTHENTICATION & SESSION](/cookies/net_forms_authentication_n_session.md)
+1. [.NET Forms Authentication and Session](/cookies/net_forms_authentication_n_session.md)
 
 
 ## Git
 1. [How to perform empty commit](/git/how_to_empty_commit.md)
 1. [How to manage git configuration (username/email)](/git/how_to_manage_config.md)
+1. [How to pick a good git flow](/git/how_to_pick_a_good_git_flow.md)
 
 ## GitHub
 1. [How to add SSH to github](/github/how_to_add_ssh_to_github.md)

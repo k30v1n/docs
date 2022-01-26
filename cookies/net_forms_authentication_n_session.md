@@ -1,4 +1,4 @@
-# .NET FORMS AUTHENTICATION & SESSION
+# .NET Forms Authentication and Session
 
 ## Forms Authentication cookie and "Ticket" 
 https://support.microsoft.com/en-ca/help/910443/understanding-the-forms-authentication-ticket-and-cookie
