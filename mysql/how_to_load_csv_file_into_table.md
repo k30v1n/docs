@@ -14,8 +14,8 @@ LOAD DATA
 		`creation_date`,
 		@active
 	)
-    SET `phone_number` = REPLACE(@phone_number, '"', ''),
-		`active` = @IsActive AND 1;
+  SET `phone_number` = REPLACE(@phone_number, '"', ''),
+      `active` = @IsActive AND 1;
 ```
 
 Some key points below extracted from original doc https://dev.mysql.com/doc/refman/8.0/en/load-data.html . Also at the bottom a common error that may occur about `Loading local data is disabled; this must be enabled on both the client and server sides`.
