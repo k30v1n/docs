@@ -1,6 +1,6 @@
 # How to run python with multiple environments
 
-In order to run python with multiple environments first download [Anaconda](Anaconda).
+In order to run python with multiple environments first download [Anaconda](https://www.anaconda.com/products/individual).
 
 Then create a new conda environment
 ```
