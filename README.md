@@ -40,6 +40,7 @@ Repo to hold important notes, links and guides to help throughout the carrer
 1. [How to create table with case insensitive columns](/mysql/how_to_create_table_with_case_insensitive_columns.md)
 1. [How to insert blob](/mysql/how_to_insert_blob.md)
 1. [How to load CSV file into a table](/mysql/how_to_load_csv_file_into_table.md)
+1. [How to select columns as json](/mysql/how_to_select_columns_as_json.md)
 
 ## Powershell
 1. [Powershell commands](/powershell/powershell_commands.md)
