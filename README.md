@@ -41,6 +41,7 @@ Repo to hold important notes, links and guides to help throughout the carrer
 1. [How to insert blob](/mysql/how_to_insert_blob.md)
 1. [How to load CSV file into a table](/mysql/how_to_load_csv_file_into_table.md)
 1. [How to perform UPSERT](/mysql/how_to_perform_upsert.md)
+1. [How to run MySql through Docker](/mysql/how_to_run_mysql_through_docker.md)
 1. [How to select columns as json](/mysql/how_to_select_columns_as_json.md)
 
 ## Powershell
