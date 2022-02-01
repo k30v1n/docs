@@ -1,5 +1,5 @@
 # docs
-Repo to hold important notes, links and guides to help throughout the carrer
+Repo to hold important notes, links and guides to help throughout the carrer. Kind of a TIL (today I learned).
 
 ## Bash
 1. [How to find process running on port](/bash/how_to_find_process_running_on_port.md)
