@@ -33,6 +33,9 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 ## GitHub
 1. [How to add SSH to github](/github/how_to_add_ssh_to_github.md)
 
+## K6.io
+1. [How to run performance tests with k6.io](/k6.io/how_to_run_performance_test_with_k6.md)
+
 ## Locust
 1. [How to run performance test with locust](/locust/how_to_run_performance_test_with_locust.md)
 
@@ -43,6 +46,9 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 1. [How to perform UPSERT](/mysql/how_to_perform_upsert.md)
 1. [How to run MySql through Docker](/mysql/how_to_run_mysql_through_docker.md)
 1. [How to select columns as json](/mysql/how_to_select_columns_as_json.md)
+
+## Performance tests
+1. [Tools available to run performance tests](/performance_tests/tools_available_to_run_performance_tests.md)
 
 ## Powershell
 1. [Powershell commands](/powershell/powershell_commands.md)
