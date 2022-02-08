@@ -58,3 +58,7 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 
 ## Redis
 1. [How to run redis through docker](/redis/how_to_run_redis_through_docker.md)
+
+
+---
+`25` tips and counting 
