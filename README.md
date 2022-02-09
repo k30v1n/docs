@@ -59,6 +59,8 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 ## Redis
 1. [How to run redis through docker](/redis/how_to_run_redis_through_docker.md)
 
+## Self Improvement
+1. [Document your learning](/self_improvements/document_your_learning.md)
 
 ---
-`25` tips and counting 
+`26` tips and counting 
