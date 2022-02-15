@@ -23,6 +23,8 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 ## Cookies
 1. [.NET Forms Authentication and Session](/cookies/net_forms_authentication_n_session.md)
 
+## CSharp
+1. [CSharp Operators](/csharp/csharp_operators.md)
 
 ## Git
 1. [How to perform empty commit](/git/how_to_empty_commit.md)
