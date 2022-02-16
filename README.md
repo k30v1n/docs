@@ -66,4 +66,4 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 1. [Document your learning](/self_improvements/document_your_learning.md)
 
 ---
-`27` tips and counting 
+`30` tips and counting 
