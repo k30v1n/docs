@@ -12,9 +12,10 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 1. [How to run specific docker step](/docker/how_to_run_docker_step.md)
 
 ## Dotnet
+1. [CLI - dotnet-counters](/dotnet/cli_dotnet_counters.md)
+1. [GRPC - performance best practices](/dotnet/grpc_performance_best_practices.md)
 1. [How to implement observer pattern on dotnet](/dotnet/how_to_implement_observer_pattern_on_dotnet.md)
 1. [How to run dotnet with profile using CLI](/dotnet/how_to_run_dotnet_with_profile.md)
-1. [CLI - dotnet-counters](/dotnet/cli_dotnet_counters.md)
 1. [Thread pool exhaustion](/dotnet/thread_pool_exhaustion_dotnet.md)
 
 ## Entity Framework
