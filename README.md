@@ -65,6 +65,7 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 
 ## RFCs
 1. [What is RFC](/rfcs/what_is_rfc.md)
+1. [HTTP2 RFCs](/rfcs/rfcs_http2.md)
 
 ## Self Improvement
 1. [Document your learning](/self_improvements/document_your_learning.md)
