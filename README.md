@@ -63,8 +63,8 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 1. [How to run redis through docker](/redis/how_to_run_redis_through_docker.md)
 1. [Redis Pub/Sub](/redis/redis_pubsub.md)
 
+## RFCs
+1. [What is RFC](/rfcs/what_is_rfc.md)
+
 ## Self Improvement
 1. [Document your learning](/self_improvements/document_your_learning.md)
-
----
-`30` tips and counting 
