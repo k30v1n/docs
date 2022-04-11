@@ -13,6 +13,7 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 
 ## Dotnet
 1. [CLI - dotnet-counters](/dotnet/cli_dotnet_counters.md)
+1. [Dependency Injection](/dotnet/dependency_injection.md)
 1. [GRPC - performance best practices](/dotnet/grpc_performance_best_practices.md)
 1. [How to implement observer pattern on dotnet](/dotnet/how_to_implement_observer_pattern_on_dotnet.md)
 1. [How to run dotnet with profile using CLI](/dotnet/how_to_run_dotnet_with_profile.md)
