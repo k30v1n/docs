@@ -27,3 +27,6 @@ class WebsiteUser(HttpUser):
     def about(self):
         self.client.get("/about/")
 ```
+
+
+My own example repository https://github.com/k30v1n/locust 
