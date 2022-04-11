@@ -19,7 +19,7 @@ curl -L https://aka.ms/dotnet-counters/linux-x64 -o dotnet-counters
 chmod +x ./dotnet-counters
 
 # if necessary - to discover the PID
-# apt-get update && apt-get install procps
+# sudo apt-get update && sudo apt-get install procps
 # ps aux
 
 ./dotnet-counters monitor --process-id 1
