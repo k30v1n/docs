@@ -14,7 +14,7 @@ dotnet tool install --global dotnet-counters
 ```shell
 docker container exec -it 9f6a4a53431b "/bin/bash"
 
-curl -L https://aka.ms/dotnet-counters/linux-x64 -o 
+curl -L https://aka.ms/dotnet-counters/linux-x64 -o dotnet-counters
 
 chmod +x ./dotnet-counters
 
