@@ -30,6 +30,7 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 
 ## Git
 1. [How to perform empty commit](/git/how_to_empty_commit.md)
+1. [How to change the last commit author](/git/how_to_change_last_commit_author.md)
 1. [How to change last commit message](/git/how_to_change_last_commit_message.md)
 1. [How to manage git configuration (username/email)](/git/how_to_manage_config.md)
 1. [How to pick a good git flow](/git/how_to_pick_a_good_git_flow.md)
