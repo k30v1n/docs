@@ -44,6 +44,9 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 ## K6.io
 1. [How to run performance tests with k6.io](/k6.io/how_to_run_performance_test_with_k6.md)
 
+## Kubernetes / k8s
+1. [How to run an app with Minicube](/kubernetes/how_to_run_app_in_minicube.md)
+
 ## Locust
 1. [How to run performance test with locust](/locust/how_to_run_performance_test_with_locust.md)
 
