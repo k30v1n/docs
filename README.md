@@ -19,6 +19,9 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 1. [How to run dotnet with profile using CLI](/dotnet/how_to_run_dotnet_with_profile.md)
 1. [Thread pool exhaustion](/dotnet/thread_pool_exhaustion_dotnet.md)
 
+# Email
+1. [Adding discartable email address](/email/discartable_email_address.md)
+
 ## Entity Framework
 1. [How to run Entity Framework migrations](/entity_framework/how_to_run_migrations.md)
 
