@@ -34,6 +34,7 @@ Repo to hold important notes, links and guides to help throughout the carrer. Ki
 1. [How to change last commit message](/git/how_to_change_last_commit_message.md)
 1. [How to manage git configuration (username/email)](/git/how_to_manage_config.md)
 1. [How to pick a good git flow](/git/how_to_pick_a_good_git_flow.md)
+1. [Learning git resources](/git/resources_learning_git.md)
 
 ## GitHub
 1. [How to add SSH to github](/github/how_to_add_ssh_to_github.md)
